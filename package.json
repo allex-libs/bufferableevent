@@ -1,0 +1,27 @@
+{
+  "name": "allex_bufferableeventlib",
+  "version": "1.0.0",
+  "description": "AllexJS lib with the functionality for bufferable HookCollection(s)",
+  "main": "index.js",
+  "scripts": {
+    "test": "allex-mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/allex-libs/bufferableevent.git"
+  },
+  "keywords": [
+    "ecosystem:AllexJS",
+    "bufferable",
+    "event",
+    "hook",
+    "collection",
+    "lib"
+  ],
+  "author": "Andrija Petrovic <andrija.hers@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/allex-libs/bufferableevent/issues"
+  },
+  "homepage": "https://github.com/allex-libs/bufferableevent#readme"
+}
